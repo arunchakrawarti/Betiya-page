@@ -58,7 +58,7 @@ const Apni = () => {
         {/* Action Buttons */}
         <div className="flex flex-col sm:flex-row items-center gap-3 mt-5">
           <Link href="/Ankahimohbaat">
-            <button className="bg-blue-600 w-full sm:w-[400px] rounded-3xl text-white font-bold py-5">
+            <button className="bg-blue-600 w-full sm:w-[400px] rounded-3xl text-white font-bold py-6">
               अभी पढ़े
             </button>
           </Link>
@@ -67,15 +67,15 @@ const Apni = () => {
             <Image
               src="/img/share.png"
               className="bg-gray-300"
-              height={84}
-              width={88}
+              height={78}
+              width={80}
               alt="share.png"
             />
             <Image
               src="/img/download.png"
               className="bg-gray-300"
-              height={84}
-              width={88}
+              height={78}
+              width={80}
               alt="download.png"
             />
           </div>

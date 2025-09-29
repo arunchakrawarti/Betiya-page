@@ -117,7 +117,7 @@ const Login = () => {
         <Image
           src="/img/betiyalogo.png"
           alt="betiyalogo"
-          className="absolute bottom-40 left-25"
+          className="absolute bottom-28 left-25"
           height={80}
           width={160}
         />
