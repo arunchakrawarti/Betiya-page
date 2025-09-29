@@ -1,0 +1,142 @@
+{
+  "followers": [
+    {
+      "name": ":) preety ;) sarkar.... 'तूतून'",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    },
+    {
+      "name": "John Doe",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    },
+    {
+      "name": "Jane Smith",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    },
+    {
+      "name": "Jane Smith",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    },
+    {
+      "name": "Jane Smith",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    }
+  ],
+  "following": [
+    {
+      "name": "Jofra Archer",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    },
+    {
+      "name": "Jofra Archer",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    },
+    {
+      "name": "Jofra Archer",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    },
+    {
+      "name": "Jofra Archer",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    },
+    {
+      "name": "Jofra Archer",
+      "img": "/img/profile.jpg",
+      "followers": "713"
+    }
+  ],
+  "published": [
+    {
+      "label": "अनकही मोहब्बत1",
+      "img": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "time": "48 ",
+      "read": "83326+"
+    },
+    {
+      "label": "अनकही मोहब्बत1",
+      "img": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "time": "48 ",
+      "read": "83326+"
+    },
+    {
+      "label": "अनकही मोहब्बत1",
+      "img": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "time": "48 ",
+      "read": "83326+"
+    },
+    {
+      "label": "अनकही मोहब्बत1",
+      "img": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "time": "48 ",
+      "read": "83326+"
+    },
+    {
+      "label": "अनकही मोहब्बत1",
+      "img": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "time": "48 ",
+      "read": "83326+"
+    },
+    {
+      "label": "अनकही मोहब्बत1",
+      "img": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "time": "48 ",
+      "read": "83326+"
+    },
+    {
+      "label": "अनकही मोहब्बत1",
+      "img": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "time": "48 ",
+      "read": "83326+"
+    }
+  ],
+  "library": [
+    {
+      "label": "अनकही मोहब्बत",
+      "img": "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "content": "अनकही मोहब्बत ..... दो दिलो की ऐसी दास्तां, जो पूरी होकर भी अधूरी है ! दो प्रेमी .,. जो पास होकर भी दूर थे ! क्या वो मिल पाऐंगे कभी .....? उनकी अनकही मोहब्बत क्या कभी मुकम्मल हो पा..."
+    },
+    {
+      "label": "अनकही मोहब्बत",
+      "img": "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "content": "अनकही मोहब्बत ..... दो दिलो की ऐसी दास्तां, जो पूरी होकर भी अधूरी है ! दो प्रेमी .,. जो पास होकर भी दूर थे ! क्या वो मिल पाऐंगे कभी .....? उनकी अनकही मोहब्बत क्या कभी मुकम्मल हो पा..."
+    },
+    {
+      "label": "अनकही मोहब्बत",
+      "img": "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "content": "अनकही मोहब्बत ..... दो दिलो की ऐसी दास्तां, जो पूरी होकर भी अधूरी है ! दो प्रेमी .,. जो पास होकर भी दूर थे ! क्या वो मिल पाऐंगे कभी .....? उनकी अनकही मोहब्बत क्या कभी मुकम्मल हो पा..."
+    },
+    {
+      "label": "अनकही मोहब्बत",
+      "img": "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "content": "अनकही मोहब्बत ..... दो दिलो की ऐसी दास्तां, जो पूरी होकर भी अधूरी है ! दो प्रेमी .,. जो पास होकर भी दूर थे ! क्या वो मिल पाऐंगे कभी .....? उनकी अनकही मोहब्बत क्या कभी मुकम्मल हो पा..."
+    },
+    {
+      "label": "अनकही मोहब्बत",
+      "img": "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "content": "अनकही मोहब्बत ..... दो दिलो की ऐसी दास्तां, जो पूरी होकर भी अधूरी है ! दो प्रेमी .,. जो पास होकर भी दूर थे ! क्या वो मिल पाऐंगे कभी .....? उनकी अनकही मोहब्बत क्या कभी मुकम्मल हो पा..."
+    },
+    {
+      "label": "अनकही मोहब्बत",
+      "img": "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "content": "अनकही मोहब्बत ..... दो दिलो की ऐसी दास्तां, जो पूरी होकर भी अधूरी है ! दो प्रेमी .,. जो पास होकर भी दूर थे ! क्या वो मिल पाऐंगे कभी .....? उनकी अनकही मोहब्बत क्या कभी मुकम्मल हो पा..."
+    },
+    {
+      "label": "अनकही मोहब्बत",
+      "img": "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "content": "अनकही मोहब्बत ..... दो दिलो की ऐसी दास्तां, जो पूरी होकर भी अधूरी है ! दो प्रेमी .,. जो पास होकर भी दूर थे ! क्या वो मिल पाऐंगे कभी .....? उनकी अनकही मोहब्बत क्या कभी मुकम्मल हो पा..."
+    },
+    {
+      "label": "अनकही मोहब्बत",
+      "img": "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "content": "अनकही मोहब्बत ..... दो दिलो की ऐसी दास्तां, जो पूरी होकर भी अधूरी है ! दो प्रेमी .,. जो पास होकर भी दूर थे ! क्या वो मिल पाऐंगे कभी .....? उनकी अनकही मोहब्बत क्या कभी मुकम्मल हो पा..."
+    }
+  ]
+}

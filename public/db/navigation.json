@@ -1,0 +1,27 @@
+[
+  {
+    "label": "मुख पृष्ठ",
+    "route": "/",
+    "icon": "ri-home-5-fill"
+  },
+  {
+    "label": "वर्ग",
+    "route": "/category",
+    "icon": "ri-stack-fill"
+  },
+  {
+    "label": "लेख",
+    "route": "/article",
+    "icon": "ri-article-fill"
+  },
+  {
+    "label": "लिखना",
+    "route": "/write",
+    "icon": "ri-pencil-fill"
+  },
+  {
+    "label": "पार्श्वचित्र",
+    "route": "/profile",
+    "icon": "ri-user-6-fill"
+  }
+]

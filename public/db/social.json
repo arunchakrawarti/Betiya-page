@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "ri-instagram-fill",
+    "route": "#"
+  },
+  {
+    "icon": "ri-facebook-fill",
+    "route": "#"
+  },
+  {
+    "icon": "ri-twitter-x-fill",
+    "route": "#"
+  },
+  {
+    "icon": "ri-youtube-fill",
+    "route": "#"
+  }
+]
