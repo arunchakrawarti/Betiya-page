@@ -50,7 +50,7 @@ const Header = () => {
 
                 {/* Navigation Items */}
                 <nav className="mt-4 lg:mt-0">
-                    <div className="flex flex-wrap items-center space-x-3 lg:space-x-5 justify-end">
+                    <div className="flex flex-wrap items-center space-x-3 lg:space-x-1 justify-end">
                         {/* Main Nav Items - visible only on large screens */}
                         <div className="hidden lg:flex space-x-5">
                             <NavItem src="/img/homelogo.png" alt="home" text="होम" />
