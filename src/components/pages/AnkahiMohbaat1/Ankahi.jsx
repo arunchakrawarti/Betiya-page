@@ -105,14 +105,14 @@ const Ankahi = () => {
 
   return (
     <div className="px-4 sm:px-8 md:px-20 py-6">
-      {/* Grid wrapper */}
+     
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 justify-items-center">
         {arr.map((item, i) => (
           <div
             key={i}
             className="flex flex-col sm:flex-row w-full max-w-2xl bg-white rounded-lg overflow-hidden shadow-lg"
           >
-            {/* Image */}
+           
             <div className="w-full sm:w-2/5">
               <Image
                 src={item.img}
@@ -125,7 +125,7 @@ const Ankahi = () => {
               />
             </div>
 
-            {/* Content */}
+           
             <div className="p-4 sm:p-6 flex flex-col justify-between w-full sm:w-3/5">
               <h2 className="text-lg sm:text-2xl font-bold mb-2 text-center sm:text-left">
                 {item.title}
@@ -134,7 +134,7 @@ const Ankahi = () => {
                 {item.description}
               </p>
 
-              {/* Info Section */}
+             
               <div className="flex flex-col sm:flex-row sm:justify-between gap-4 sm:gap-0 items-center sm:items-center text-xs mb-4">
                 <div className="flex flex-col items-center sm:items-start">
                   <p className="text-yellow-400 font-extrabold">
@@ -152,7 +152,7 @@ const Ankahi = () => {
                 </div>
               </div>
 
-              {/* Buttons */}
+              
               <div className="flex flex-col sm:flex-row items-center sm:items-start gap-13 mt-2">
                 <Link href={item.link} className="w-full sm:w-auto">
                   <button className="bg-blue-600 text-white text-sm sm:text-base font-bold py-3 px-4 rounded-xl w-full sm:w-[200px]">

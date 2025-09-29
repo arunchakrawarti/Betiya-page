@@ -13,7 +13,7 @@ const Libaray = () => {
 
   return (
     <div className="w-[90%] h-[200px] mx-auto mt-15">
-      {/* Tabs */}
+     
       <div className="flex justify-between border-b border-gray-300">
         {tabs.map((tab, index) => (
           <div
@@ -31,7 +31,7 @@ const Libaray = () => {
         ))}
       </div>
 
-      {/* Content */}
+     
       <div className="mt-4 p-4 bg-gray-50 rounded">
         <p>{tabs[activeTab].content}</p>
       </div>

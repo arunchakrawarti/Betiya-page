@@ -10,10 +10,10 @@ const Phot = () => {
       <div className="w-[90%] mx-auto">
         <div className="flex flex-col sm:flex-row w-full h-auto rounded-2xl shadow-sm overflow-hidden">
           
-          {/* Left Section */}
+         
           <div className="flex items-center gap-4 sm:gap-6 bg-[#cff4ff] px-4 sm:px-6 py-4 w-full sm:w-1/2 border-l-8 border-dashed border-white">
             
-            {/* Profile Image */}
+           
             <div className="relative">
               <Image
                 src="/img/man.png"
@@ -25,7 +25,7 @@ const Phot = () => {
               <div className="absolute bottom-1 right-2 w-4 h-4 bg-white rounded-full border-2 border-pink-400"></div>
             </div>
 
-            {/* Name + Followers */}
+         
             <div className="flex flex-col justify-center gap-1">
               <p className="text-black font-semibold text-lg sm:text-xl">
                 :) preety ;) sarkar.... <span className="text-xl">"तूतून"</span>
@@ -33,7 +33,7 @@ const Phot = () => {
               <p className="text-sm sm:text-base text-gray-600">713 फॉलोअर्स</p>
             </div>
 
-            {/* Follow Button */}
+            
             <Link href="/Design123">
             <button className="bg-blue-600 px-4 sm:px-6 py-2 sm:py-4 rounded-lg text-white font-medium text-sm sm:text-base whitespace-nowrap ml-18">
               फॉलो
@@ -41,10 +41,10 @@ const Phot = () => {
             </Link>
           </div>
 
-          {/* Right Section */}
+         
           <div className="flex flex-col sm:flex-row justify-around items-center bg-white p-4 w-full sm:w-1/2 gap-4 sm:gap-0">
             
-            {/* Rating + Next Chapter */}
+           
             <div className="flex flex-col items-center justify-center gap-2 w-full sm:w-auto">
               <div className="flex flex-col items-center">
                 <div className="flex items-center gap-1">
@@ -62,10 +62,10 @@ const Phot = () => {
               </button>
             </div>
 
-            {/* Divider */}
+         
             <div className="hidden sm:block h-20 w-[1px] bg-gray-200"></div>
 
-            {/* Read Time + Share */}
+          
             <div className="flex flex-col items-center justify-center gap-2 w-full sm:w-auto">
               <div className="flex flex-col items-center text-center">
                 <p className="font-bold text-base sm:text-lg text-black">49 मिनट</p>
@@ -76,10 +76,10 @@ const Phot = () => {
               </button>
             </div>
 
-            {/* Divider */}
+          
             <div className="hidden sm:block h-20 w-[1px] bg-gray-200"></div>
 
-            {/* Read Count + Download */}
+           
             <div className="flex flex-col items-center justify-center gap-2 w-full sm:w-auto">
               <div className="flex flex-col items-center text-center">
                 <p className="font-bold text-base sm:text-lg text-black">83326+</p>

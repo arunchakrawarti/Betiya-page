@@ -7,7 +7,7 @@ const Eska = () => {
   return (
     <div className="flex flex-col lg:flex-row w-[90%] m-auto lg:mt-0 mt-10 gap-10">
       
-      {/* Image Section */}
+     
       <div className="flex-shrink-0 lg:w-[600px] w-full">
         <Link href="/AnkahiMohbaat1">
         <Image
@@ -20,7 +20,7 @@ const Eska = () => {
         </Link>
       </div>
 
-      {/* Content Section */}
+      
       <div className="lg:ml-10 mt-2 flex-1">
         <h1 className="text-4xl font-extrabold">अनकही मोहब्बत</h1>
     
