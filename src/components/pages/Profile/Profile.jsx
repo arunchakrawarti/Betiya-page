@@ -76,7 +76,7 @@ const Profile = () => {
       <div className="w-[90vw]">
         {activeTab === "profile" && (
          
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 w-full px-4"> 
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 w-full px-4 py-3"> 
             <FormInput placeholder="First Name" />
             <FormInput placeholder="Last Name" />
             <FormInput placeholder="User Name" />
