@@ -2,47 +2,46 @@ import React from 'react'
 import LoveCard from '../molecules/LoveCard'
 
 const LoveStory = () => {
-    let arr = [
-        {
-            img:"/img/love1.png"
-        },
-        {
-            img:"/img/love1.png"
-        },
-        {
-            img:"/img/love1.png"
-        },
-        {
-            img:"/img/love1.png"
-        },
-        {
-            img:"/img/love1.png"
-        },
-        {
-            img:"/img/love1.png"
-        },
-        {
-            img:"/img/love1.png"
-        },
+    const arr = [
+        { img: "/img/love1.png" },
+        { img: "/img/love1.png" },
+        { img: "/img/love1.png" },
+        { img: "/img/love1.png" },
+        { img: "/img/love1.png" },
+        { img: "/img/love1.png" },
+        { img: "/img/love1.png" },
     ]
-  return (
-    <div className='ml-17 mt-10'>
-    <div className='flex mb-2 mr-15 justify-between'>
-    <h1 className='text-3xl font-bold'>लव स्टोरी</h1>
-    <p>Our Dekhe</p>
-    </div>
-     <div className="flex gap-4">
-            {
-                arr.map((item, i) => {
-                    return (<LoveCard 
-                        key={i}     
-                        img={item?.img} 
-                    />)
-                })
-            }
+
+    // Small screens: show only first 6 cards
+    const smallScreenArr = arr.slice(0, 6)
+
+    return (
+        <div className='ml-4 sm:ml-17 mt-10'>
+            {/* Header */}
+            <div className='flex flex-col sm:flex-row justify-between items-start sm:items-center mb-4'>
+                <h1 className='text-2xl sm:text-3xl font-bold mb-2 sm:mb-0'>लव स्टोरी</h1>
+                <p className='text-sm sm:text-base'>Our Dekhe</p>
             </div>
-    </div>
-  )
+
+            {/* Cards container */}
+            <div className="sm:flex gap-4">
+                {/* Small screens: grid of 2 columns */}
+                <div className="grid grid-cols-2 gap-4 sm:hidden">
+                    {smallScreenArr.map((item, i) => (
+                        <LoveCard key={i} img={item.img} />
+                    ))}
+                </div>
+
+                {/* Large screens: show all 7 cards horizontally */}
+                <div className="hidden sm:flex gap-4">
+                    {arr.map((item, i) => (
+                        <LoveCard key={i} img={item.img} />
+                    ))}
+                </div>
+            </div>
+        </div>
+    )
 }
 
 export default LoveStory
+

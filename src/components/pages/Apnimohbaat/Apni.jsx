@@ -38,7 +38,7 @@ const Apni = () => {
         </p>
 
         {/* Stats */}
-        <div className="flex flex-col sm:flex-row justify-between mt-100 lg:mt-60 w-[90%] gap-5">
+        <div className="flex flex-col sm:flex-row justify-between mt-10 lg:mt-60 w-[90%] gap-5">
           <div className="flex flex-col items-start">
             <p className="text-yellow-400 text-xl font-bold">
               ★ <span className="text-black">4.4</span>
@@ -58,9 +58,9 @@ const Apni = () => {
         {/* Action Buttons */}
         <div className="flex flex-col sm:flex-row items-center gap-3 mt-5">
           <Link href="/Ankahimohbaat">
-          <button className="bg-blue-600 w-full sm:w-[400px] rounded-3xl text-white font-bold py-5">
-            अभी पढ़े
-          </button>
+            <button className="bg-blue-600 w-full sm:w-[400px] rounded-3xl text-white font-bold py-5">
+              अभी पढ़े
+            </button>
           </Link>
 
           <div className="flex gap-3">
@@ -86,4 +86,3 @@ const Apni = () => {
 };
 
 export default Apni;
-

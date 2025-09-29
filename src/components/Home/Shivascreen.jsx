@@ -26,7 +26,7 @@ const Shivascreen = () => {
   };
 
   return (
-    <div className="relative w-full max-w-[1380px] mx-auto overflow-hidden">
+    <div className="relative  max-w-[1380px] mx-auto overflow-hidden">
       {/* Slider */}
       <div
         ref={sliderRef}
