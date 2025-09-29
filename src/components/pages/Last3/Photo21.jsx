@@ -5,7 +5,7 @@ const Photo21 = () => {
   return (
     <div className='flex flex-col sm:flex-row w-[90%] mt-10 mx-auto justify-between gap-6'>
       
-      {/* Left section */}
+     
       <div className='w-full sm:w-[20%] flex flex-col items-center sm:items-start'>
         <Image
           src="/img/man.png"
@@ -17,7 +17,7 @@ const Photo21 = () => {
         <h2 className='mt-1 text-center sm:text-left'>7130 लोगों ने पढ़ा।</h2>
       </div>
 
-      {/* Right section */}
+     
       <div className='w-full sm:w-[50%] mt-4 sm:mt-10'>
         <h1 className='mt-2 font-bold text-lg'>लेखक के बारे में</h1>
         <p className='mt-2'>

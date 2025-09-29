@@ -20,7 +20,7 @@ const Prakash = () => {
 
       <div className="flex flex-col h-screen w-[80vw] border border-blue-400 overflow-hidden">
 
-        {/* Header */}
+       
         <div className="flex w-[80vw] flex-col sm:flex-row justify-between items-start sm:items-center p-2 sm:p-3 bg-blue-500 text-white font-semibold gap-2">
           <h1 className="text-sm sm:text-base md:text-lg break-words w-full sm:w-auto">
             नया ड्राफ्ट - 22/02/2025
@@ -38,10 +38,10 @@ const Prakash = () => {
           </div>
         </div>
 
-        {/* Editor Area */}
+        
         <div className="flex flex-col flex-grow overflow-hidden border-t border-gray-300">
 
-          {/* Menu Bar */}
+         
           <div className="overflow-x-auto bg-gray-100/50">
             <div className="flex flex-wrap sm:flex-nowrap p-2 justify-between gap-2 text-gray-700 font-bold">
               {menuItems.map((item) => (
@@ -52,7 +52,7 @@ const Prakash = () => {
             </div>
           </div>
 
-          {/* Toolbar */}
+        
           <div className="overflow-x-auto bg-gray-50 p-1">
             <div className="flex justify-between flex-wrap sm:flex-nowrap gap-1 sm:gap-3">
               {toolbarItems.map((item, index) => {
@@ -62,7 +62,7 @@ const Prakash = () => {
             </div>
           </div>
 
-          {/* Main Content */}
+        
           <div className="flex-grow p-2 sm:p-4 bg-white overflow-y-auto">
             <textarea
               className="w-full h-full resize-none border-none focus:outline-none text-sm sm:text-base"
@@ -71,7 +71,7 @@ const Prakash = () => {
           </div>
         </div>
 
-        {/* Footer */}
+       
         <div className="flex flex-wrap justify-between items-center px-2 sm:px-3 py-1 text-[10px] sm:text-xs text-gray-600 border-t border-gray-300 bg-gray-100 gap-1">
           <p>P</p>
           <div className="flex flex-wrap gap-2 sm:gap-4 items-center">
@@ -84,10 +84,10 @@ const Prakash = () => {
   );
 };
 
-// Divider line
+
 const Divider = () => <div className="border-l border-gray-300 h-6 mx-1 hidden sm:block"></div>;
 
-// Toolbar button
+
 const ToolbarButton = ({ icon, bold, italic, underline, strikethrough }) => (
   <button
     className={`px-2 py-1 sm:py-1.5 rounded hover:bg-gray-300 text-sm sm:text-lg text-gray-700

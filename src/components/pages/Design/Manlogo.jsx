@@ -6,7 +6,7 @@ const Manlogo = () => {
   return (
     <div className="flex flex-col md:flex-row w-[90%] mt-10 mx-auto justify-between gap-6">
       
-      {/* Left Section */}
+     
       <div className="w-full md:w-1/4 flex flex-col items-center md:items-start text-center md:text-left">
         <Link href="/Designnerer12">
           <Image
@@ -22,7 +22,7 @@ const Manlogo = () => {
         <h2 className="mt-1">7130 लोगों ने पढ़ा।</h2>
       </div>
 
-      {/* Right Section */}
+      
       <div className="w-full md:w-2/3 mt-4 md:mt-10">
         <h1 className="font-bold text-lg">लेखक के बारे में</h1>
         <p className="mt-2">
