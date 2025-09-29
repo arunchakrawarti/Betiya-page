@@ -37,7 +37,7 @@ const Profile = () => {
   );
 
   return (
-    <div className="w-full min-h-[90vh]">
+    <div className="w-full min-h-[70vh]">
       
       <div className="flex w-full border-b text-lg sm:text-base mb-6">
         <button
@@ -116,7 +116,7 @@ const Profile = () => {
           </div>
         )}
       </div>
-     <div className="text-center mt-8">
+     <div className="text-center mt-10">
        <button className="w-[200px] bg-blue-600 py-3 rounded-md text-white">Update Profile</button>
      </div>
     </div>
